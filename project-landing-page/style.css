@@ -17,6 +17,48 @@ body {
 }
 
 
+.container {
+    display: flex;
+    justify-content: space-between;
+    
+
+    
+}
+
+img {
+    margin-left: 170px;
+    margin-top: -40px;
+}
+
+ul {
+    list-style: none;
+    text-align: justify;
+    
+    
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    
+    
+    
+}
+
+li {
+    margin-right: 500px;
+
+    
+
+    
+}
+
+
+
+
+
+
 
 
 
