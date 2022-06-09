@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    
 
 }
 
@@ -9,15 +9,14 @@
 
 
 body {
-    background-color: black;
-    margin-left: 220px;
-    margin-right: 220px;
+    height: 100vh;
+    background: linear-gradient( #1f2937 0%, #1f2937 65%, white 65%, white 140%);
+    
 
 }
 
 
-.intro {
-    height: 100vh;
-    background: linear-gradient(#1f2937 65%, white 65%);
 
-}  
+
+    
+
