@@ -11,9 +11,25 @@
 body {
     height: 100vh;
     background: linear-gradient( #1f2937 0%, #1f2937 65%, white 65%, white 140%);
-    
 
+    
 }
+
+
+img {
+    margin-left: 165px;
+    padding: 0%;
+    margin-top: -40px;
+}
+
+
+.container {
+    display: flex;
+    display: inline;
+}
+
+
+
 
 
 
