@@ -3,71 +3,37 @@
     padding: 0;
 }
 
+
 body {
     background-color: black;
     margin-left: 300px;
     margin-right: 300px;
+    display: flex;
+    flex-direction: column;
 }
 
-
-   
 .intro {
     height: 100vh;
     background-image: linear-gradient(#1f2937 50%, white 50%);
-}
-
-
-.container {
-    display: flex;
-    justify-content: space-between;
     
-
     
-}
-
-img {
-    margin-left: 170px;
-    margin-top: -40px;
 }
 
 ul {
+    display: flex;
     list-style: none;
-    text-align: justify;
-    
-    
-
+    margin: 0;
+    padding: 16px;
+    gap: 16px;
+    justify-content: flex-end;
+    margin-right: 200px;
 }
 
 a {
-    text-decoration: none;
     color: white;
-    
-    
-    
+    text-decoration: none;
+    font-size: larger;
 }
-
-li {
-    margin-right: 500px;
-
-    
-
-    
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     
 
