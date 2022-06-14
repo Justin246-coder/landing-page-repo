@@ -26,7 +26,8 @@ ul {
     padding: 16px;
     gap: 16px;
     justify-content: flex-end;
-    margin-right: 200px;
+    margin-right: 152px;
+    font-family: Arial;
 }
 
 a {
@@ -68,8 +69,12 @@ button {
 }
 
 
-.container > * {
+.container img {
+    display: flex;
     margin: 0 auto;
+    justify-content: space-evenly;
+    margin-left: 40px;
+    
     
     
 }
@@ -78,7 +83,8 @@ h1 {
     color: #f9faf8;
     font-size: 48px;
     font-weight: bold;
-    font-family: sans-serif;
+    font-family: Arial;
+    
 
 }
 
@@ -87,6 +93,12 @@ p {
    font-size: 18px;
    
 }
+
+.info {
+    margin-left: 80px;
+    font-family: Arial;
+}
+
 
 
 
