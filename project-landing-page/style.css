@@ -14,7 +14,7 @@ body {
 
 .intro {
     height: 100vh;
-    background-image: linear-gradient(#1f2937 50%, white 50%);
+    background-image: linear-gradient(#1f2937 55%, white 55%);
     
     
 }
@@ -40,48 +40,73 @@ a {
     margin-top: -86px;
 }
 
+ 
+
+
+button {
+    background-color: #3882f6;
+    border: none;
+    color: white;
+    padding: 8px 32px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+    border-radius: 9px;
+    margin-top: 9px;
+    
+
+}
 
 
 .container {
     display: flex;
     margin: 0 auto;
-    justify-content: flex-end;
-
+    flex-direction: row-reverse;
+    margin-left: 115px;
+    
+    
 }
+
 
 .container > * {
-    margin: auto;
-    margin-left: 197px;
-    justify-content: space-between;
-}
-
-p {
-    color: white;
-    font-size: 18px;
+    margin: 0 auto;
+    
     
 }
 
 h1 {
-    color: white;
+    color: #f9faf8;
     font-size: 48px;
-    font-family: sans-serif;
-    font-weight: bolder;
-    
-}
-
-
-button {
-    
-    background-color: #3882f6;
-    border: 0px;
-    padding: 12px;
-    margin-top: 7px;
-    color: white;
     font-weight: bold;
-    border-radius: 15%;
-    
+    font-family: sans-serif;
 
 }
+
+p {
+   color: white;
+   font-size: 18px;
+   
+}
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
