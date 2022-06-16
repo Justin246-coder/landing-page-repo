@@ -32,12 +32,11 @@ ul {
 
 a {
     color: white;
-    text-decoration: none;
     font-size: larger;
 }
 
-.content {
-    margin-left: 165px;
+.littpic {
+    margin-left: 160px;
     margin-top: -86px;
 }
 
@@ -99,6 +98,28 @@ p {
     font-family: Arial;
 }
 
+
+
+.content {
+    display: flex;
+    margin: 0 auto;
+    
+    
+}
+
+
+.content h2 {
+    margin: auto;
+    margin-top: 160px;
+}
+
+h2 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Arial;
+    
+}
 
 
 
