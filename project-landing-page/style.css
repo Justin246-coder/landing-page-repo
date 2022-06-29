@@ -127,68 +127,23 @@ h2 {
     
 }
 
-.content2 {
-    display: flex;
-    margin: 0 auto;
-    padding-bottom: 20px;
-    
-    
-
-    
-}
-
-.content2 {
-    margin: 0 auto;
-    display: flex;
-    margin-top: 50px;
-    justify-content: center;
-    gap: 57px;
-    
-    
-    
-}
-
-
-
 .content2 img {
     border-radius: 15px;
-    margin-top: 15px;
-    
-    
 }
 
 
-
-    
-    
-
-
-
-.content3 {
-    background-color: white;
-    height: 80px;
+.content2 {
     display: flex;
-    margin: 0;
+    margin: 0 auto;
+    background-color: white;
+    height: 450px;
     
 }
 
 
-.content3 p {
-    color: black;
-    
-    
-
+.info {
+    margin-top: 50px;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 
