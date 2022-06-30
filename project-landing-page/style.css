@@ -161,7 +161,9 @@ h2 {
 }
 
 .container3 {
-    height: 250px;
+    margin: 0 auto;
+    display: flex;
+    height: 390px;
     background-color: #e5e7eb;
 
 }
