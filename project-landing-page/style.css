@@ -96,7 +96,7 @@ p {
    
 }
 
-.first {
+.container2 {
     margin-left: 80px;
     font-family: Arial;
     margin-bottom: 33px;
@@ -118,7 +118,7 @@ p {
 
 .content h2 {
     margin: auto;
-    margin-top: 115px;
+    margin-top: 130px;
 }
 
 h2 {
@@ -132,11 +132,7 @@ h2 {
 .content2 img {
     border-radius: 15px;
     
-    
-    
-
-   
-    
+        
 }
 
 
@@ -164,7 +160,7 @@ h2 {
     margin-top: 3px;
 }
 
-.container2 {
+.container3 {
     height: 250px;
     background-color: #e5e7eb;
 
