@@ -116,7 +116,7 @@ p {
 
 .content h2 {
     margin: auto;
-    margin-top: 160px;
+    margin-top: 115px;
 }
 
 h2 {
@@ -129,20 +129,35 @@ h2 {
 
 .content2 img {
     border-radius: 15px;
+    
+    
+
+   
+    
 }
 
 
 .content2 {
     display: flex;
-    margin: 0 auto;
     background-color: white;
-    height: 450px;
+    height: 425px;
+    justify-content: center;
+    
+    
+    
     
 }
 
 
 .info {
     margin-top: 50px;
+    
+
+}
+
+
+.text {
+    margin-top: 3px;
 }
 
 
