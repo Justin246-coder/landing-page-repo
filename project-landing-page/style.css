@@ -165,7 +165,20 @@ h2 {
     display: flex;
     height: 390px;
     background-color: #e5e7eb;
+    
 
+}
+
+.container3 p {
+    color: black;
+    display: inline-block;
+    
+}
+
+.container3 > * {
+    margin: auto;
+    justify-content: center;
+    
 }
 
 
