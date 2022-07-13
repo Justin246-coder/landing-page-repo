@@ -167,6 +167,8 @@ h2 {
     background-color: #e5e7eb;
     
 
+    
+
 }
 
 .container3 p {
@@ -174,17 +176,14 @@ h2 {
     display: inline-block;
     font-size: 36px;
     font-style: italic;
-    
+    margin-left: 50px;
+
     
 }
 
 .container3 > * {
     margin: auto;
-    justify-content: center;
     
-
-    
-
     
 }
 
@@ -200,6 +199,24 @@ h2 {
     height: 100px;
     background-color: #1f2937;
 }
+
+
+.nametag {
+    margin-top: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 450px;
+    padding-left: 130px
+    
+}
+
+
+
+
+
+
+
+
 
 
 
