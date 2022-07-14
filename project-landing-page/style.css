@@ -192,6 +192,7 @@ h2 {
 .container4 {
     height: 330px;
     background-color: white;
+    
 }
 
 
@@ -209,6 +210,36 @@ h2 {
     padding-left: 130px
     
 }
+
+
+.container4 {
+    margin-top: 0 auto;
+    display: flex;
+}
+
+
+.container4 .box {
+    margin: auto;
+}
+
+
+.box {
+    background-color: #3882f6;
+    width: 900px;
+    padding: 60px;
+    border: 10px solid #3882f6;
+    box-sizing: border-box;
+    margin: 0 auto;
+    border-radius: 7px;
+   }
+
+
+
+
+
+
+
+
 
 
 
