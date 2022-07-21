@@ -225,11 +225,10 @@ h2 {
 
 .box {
     background-color: #3882f6;
-    width: 900px;
-    height: 115px;
-    padding: 60px;
+    width: 800px;
+    height: 10px;
+    padding: 55px;
     border: 10px solid #3882f6;
-    box-sizing: border-box;
     margin: 0 auto;
     border-radius: 7px;
    }
@@ -242,28 +241,61 @@ h2 {
 
 
 
-
 .box button {
     background-color: #3882f6;
     border: 2px solid white;
     color: white;
-    padding: 8px 32px;
+    padding: 6px 30px;
     text-align: center;
     font-weight: bolder;
     font-size: 18px;
     
 }
 
-
-.box {
-    margin: 0 auto;
-    display: flex;
-}
-
-.box button {
-    margin: auto;
+#text {
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 
+    
     
 }
+
+
+.box {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    margin-bottom: 
+}
+
+
+ 
+
+
+    
+    
+    
+
+    
+
+
+    
+
+
+
+ 
+    
+
+
+
+
+
+
+
+
+
+
+
 
 
 
