@@ -177,6 +177,7 @@ h2 {
     font-size: 36px;
     font-style: italic;
     margin-left: 50px;
+    margin-top: 20px;
 
     
 }
@@ -255,18 +256,27 @@ h2 {
 #text {
     font-size: 25px;
     font-weight: bold;
-    margin-left: 
+    margin-left: 40px; 
     
     
+    
+}
+
+
+#text2 {
+    margin-left: 40px;
 }
 
 
 .box {
     display: flex;
     flex-direction: column-reverse;
-    align-items: flex-start;
-    margin-bottom: 
+    justify-content: center;
+    
 }
+
+
+
 
 
  
