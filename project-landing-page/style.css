@@ -39,11 +39,14 @@ a {
 }
 
 .littpic {
-    margin-left: 300px;
     margin-top: -86px;
+    margin-right: 318px;
+    
+    
+    
 }
 
- 
+
 
 
 button {
@@ -78,6 +81,8 @@ button {
     margin: 0 auto;
     justify-content: space-evenly;
     margin-right: 340px;
+    
+    
  
     
     
@@ -133,7 +138,7 @@ p {
 
 .content h2 {
     margin: auto;
-    margin-top: 130px;
+    margin-top: 135px;
 }
 
 h2 {
@@ -155,9 +160,10 @@ h2 {
 .content2 {
     display: flex;
     background-color: white;
-    height: 425px;
+    height: 450px;
     justify-content: center;
-    gap: 50px;
+    gap: 70px;
+    
     
     
     
@@ -165,7 +171,7 @@ h2 {
 
 
 .info {
-    margin-top: 50px;
+    margin-top: 70px;
     
     
 
@@ -338,7 +344,18 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     width: 960px;
+    
 }
+
+#nike {
+    margin-top: 120px;
+}
+
+
+
+
+
+
 
 
 
