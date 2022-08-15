@@ -1,6 +1,8 @@
 *  {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    
     
     
 }
@@ -9,36 +11,32 @@
 body {
     display: flex;
     flex-direction: column;
-    background-color: black;
     
+    
+
     
 }
 
-.intro {
-    height: 1000px;
-    max-width: 2300px;
-    background-image: linear-gradient(#1f2937 55%, white 55%);
-    
 
-    
-   
-
+header {
+    height: 500px;
+    max-width: 2000px;
+    background-color: #1f2937;
 }
+
 
 ul {
     display: flex;
     list-style: none;
     margin: 0;
-    padding: 16px;
-    gap: 50px;
+    padding: 0;
+    gap: 16px;
     justify-content: flex-end;
-    margin-right: 330px;
-    font-family: Arial;
-    
-    
-    
-    
+    margin-right: 400px;
+    margin-top: 18px;
+
 }
+
 
 a {
     color: white;
@@ -46,362 +44,25 @@ a {
     text-decoration: none;
 }
 
-.littpic {
-    margin-top: -86px;
-    margin-right: 318px;
-
-    
-    
-    
-}
 
 
 
 
-button {
-    background-color: #3882f6;
-    border: none;
-    color: white;
-    padding: 8px 32px;
-    text-align: center;
-    font-weight: bolder;
-    font-size: 18px;
-    border-radius: 9px;
-    margin-top: 9px;
-    
-
-}
-
-
-.container {
-    display: flex;
-    margin: 0 auto;
-    flex-direction: row-reverse;
-    margin-left: 115px;
-    
-    
-    
-    
-    
-}
-
-
-.container img {
-    display: flex;
-    margin: 0 auto;
-    justify-content: space-evenly;
-    margin-right: 340px;
-    
-
-    
-    
-    
- 
-    
-    
-}
 
 
 
 
-h1 {
-    color: #f9faf8;
-    font-size: 48px;
-    font-weight: bold;
-    font-family: Arial;
-    
 
-}
 
-p {
-   color: white;
-   font-size: 18px;
    
-   
-   
-}
 
-.container2 {
-    margin-left: 80px;
-    font-family: Arial;
-    margin-bottom: 33px;
-    
-    
-    
 
-}
 
-.container2 p {
-    margin-left: 140px;
-    
-}
 
-.container2 button {
-    margin-left: 140px;
-}
 
 
-.content {
-    display: flex;
-    margin: 0 auto;
-    
-    
-    
-    
-    
-}
 
 
-.content h2 {
-    margin: auto;
-    margin-top: 135px;
-}
-
-h2 {
-    color: #1f2937;
-    font-size: 36px;
-    font-weight: bold;
-    font-family: Arial;
-    
-    
-}
-
-.content2 img {
-    border-radius: 15px;
-    
-
-    
-    
-    
-    
-}
-
-
- 
-
-
-
-
-.content2 {
-    display: flex;
-    background-color: white;
-    height: 450px;
-    max-width: 2300px;
-    justify-content: center;
-    gap: 70px;
-    
-    
-    
-    
-}
-
-
-.info {
-    margin-top: 70px;
-    
-    
-    
-    
-    
-
-}
-
-
-.text {
-    margin-top: 3px;
-}
-
-.container3 {
-    margin: 0 auto;
-    display: flex;
-    height: 415px;
-    max-width: 2300px;
-    background-color: #e5e7eb;
-    
-
-    
-
-}
-
-.container3 p {
-    color: black;
-    display: inline-block;
-    font-size: 36px;
-    font-style: italic;
-    margin-left: 50px;
-    margin-top: 20px;
-    
-    
-    
-}
-
-.container3 > * {
-    margin: auto;
-    
-    
-}
-
-
-
-.container4 {
-    height: 330px;
-    max-width: 2300px;
-    background-color: white;
-    
-}
-
-
-.footer {
-    height: 100px;
-    max-width: 2300px;
-    background-color: #1f2937;
-}
-
-
-.nametag {
-    margin-top: 5px;
-    font-size: 25px;
-    font-weight: bold;
-    margin-left: 450px;
-    padding-left: 130px
-    
-}
-
-
-.container4 {
-    margin-top: 0 auto;
-    display: flex;
-    
-}
-
-
-.container4 .box {
-    margin: auto;
-    
-    
-}
-
-
-.box {
-    background-color: #3882f6;
-    width: 800px;
-    height: 10px;
-    padding: 55px;
-    border: 10px solid #3882f6;
-    margin: 0 auto;
-    border-radius: 7px;
-    
-
-    
-    
-}
-
-.box {
-    margin: 0 auto;
-    display: flex;
-    
-    
-}
-
-
-
-.container5 #buttonid {
-    background-color: #3882f6;
-    border: 2px solid white;
-    color: white;
-    padding: 6px 30px;
-    text-align: center;
-    font-weight: bolder;
-    font-size: 18px;
-    
-    
-}
-
-#text {
-    font-size: 25px;
-    font-weight: bold;
-    margin-left: 40px; 
-    
-    
-    
-    
-    
-}
-
-
-#text2 {
-    margin-left: 40px;
-    
-    
-    
-    
-    
-}
-
-.box {
-    display: flex;
-    flex-direction: column-reverse;
-    justify-content: center;
-    
-    
-    
-    
-}
-
-
-
-
-
-.container5 {
-    margin: 0 auto;
-    display: flex;
-    
-
-
-}
-
-
-
-
-.container5 > * {
-    margin: auto;
-}
-
-
-.container6 {
-    position: absolute;
-}
-
-
-#buttonid {
-    margin-left: 550px;
-}
-
-
-.footer {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-}
-
-
-h1 {
-    margin-left: 140px;
-}
-
-#wrapper {
-    margin-left: auto;
-    margin-right: auto;
-    width: 960px;
-    
-    
-    
-}
-
-#nike {
-    margin-top: 120px;
-}
 
 
 
