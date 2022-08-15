@@ -18,10 +18,14 @@ body {
 }
 
 
-header {
+.container {
+    display: flex;
     height: 500px;
     max-width: 2000px;
     background-color: #1f2937;
+    justify-content: flex-end;
+    
+    
 }
 
 
@@ -30,7 +34,7 @@ ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    gap: 16px;
+    gap: 50px;
     justify-content: flex-end;
     margin-right: 400px;
     margin-top: 18px;
@@ -42,6 +46,13 @@ a {
     color: white;
     font-size: larger;
     text-decoration: none;
+}
+
+.container img {
+    display: flex;
+    margin-top: 100px;
+    margin-right: 396px;
+    
 }
 
 
