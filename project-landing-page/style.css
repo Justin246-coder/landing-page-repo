@@ -35,7 +35,8 @@ body {
 
 .container img {
     margin-top: -30px;
-    margin-left: 380px;
+    margin-left: 307px;
+    
 }
 
 
@@ -46,7 +47,7 @@ ul {
     padding: 16px;
     gap: 50px;
     font-family: Arial;
-    margin-left: 600px;
+    margin-left: 540px;
 
    
    
@@ -61,9 +62,45 @@ a {
 
 #nike {
     display: flex;
-    margin-top: 120px;
-    margin-left: 55px;
+    margin-top: 140px;
+    margin-left: 70px;
+    
 }
+
+h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: Arial;
+   
+
+}
+
+p {
+   color: white;
+   font-size: 18px;
+   
+   
+}
+
+
+button {
+    background-color: #3882f6;
+    border: none;
+    color: white;
+    padding: 8px 32px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 18px;
+    border-radius: 9px;
+    margin-top: 9px;
+   
+}
+
+#introtext {
+    margin-left: 344px;
+}
+
 
 
 
