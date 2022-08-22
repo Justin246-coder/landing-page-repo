@@ -109,8 +109,16 @@ button {
 }
 
 
+/*Intro and all of its contents*/
 
 
+
+.container3 {
+    display: flex;
+    height: 500px;
+    max-width: 2000px;
+    background-color: white;
+}
 
 
 
