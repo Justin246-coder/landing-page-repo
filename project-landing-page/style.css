@@ -34,6 +34,7 @@ body {
 
 
 .container img {
+    display: flex;
     margin-top: -30px;
     margin-left: 307px;
     
@@ -103,41 +104,95 @@ button {
 
 
 #wrapper {
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     width: 800px;
 }
 
 
-/*Intro and all of its contents*/
+/*End of intro and all of its contents*/
 
 
 
 .container3 {
     display: flex;
-    height: 500px;
+    height: 400px;
     max-width: 2000px;
     background-color: white;
+    margin: 0 auto;
+
+    
+    
+}
+
+
+.container3 > * {
+    margin: auto;
+}
+
+
+
+
+.content2 {
+    display: flex;
+    justify-content: center;
+    
 }
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+h2 {
+    display: flex;
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: Arial;
+    margin-top: 50px;
+    
    
+}
+
+
+.content3 {
+    display: flex;
+    margin: 0 auto;
+    gap: 70px;
+}
+
+.content3 > * {
+    margin: auto;
+}
+
+
+.content3 .info {
+    justify-content: center;
+    margin-top: 50px;
+    
+    
+}
+
+
+.info img {
+    border-radius: 15px;
+    
+}
+
+/*End of container 3 sneaker section*/
+
+
+.container4 {
+    background-color: #e5e7eb;
+    height: 350px;
+    max-width: 2000px;
+}
+
+
+
+
+
 
 
 
