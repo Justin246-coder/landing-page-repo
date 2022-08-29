@@ -184,10 +184,42 @@ h2 {
 
 
 .container4 {
+    display: flex;
     background-color: #e5e7eb;
-    height: 350px;
+    height: 400px;
     max-width: 2000px;
+    
 }
+
+
+.container5 {
+    display: flex;
+    margin: 0 auto;
+}
+
+.container5 {
+    margin: auto;
+}
+
+
+
+
+.container5 p {
+    color: black;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.nametag {
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+
+
 
 
 
