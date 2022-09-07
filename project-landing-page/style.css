@@ -11,6 +11,7 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: Arial;
     
     
     
@@ -319,8 +320,20 @@ h2 {
     font-weight: bold;
 }
 
+/*End of container 6 and all of its contents*/
+
+.footer {
+    height: 100px;
+    max-width: 2300px;
+    background-color: #1f2937;
+}
 
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
