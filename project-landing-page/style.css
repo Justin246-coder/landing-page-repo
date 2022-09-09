@@ -21,16 +21,17 @@ body {
 }
 
 
+
 .container {
     display: flex;
     height: 500px;
     max-width: 2000px;
     background-color: #1f2937;
-    
-    
+    overflow: hidden;
     
     
 }
+
 
 
 
@@ -51,10 +52,11 @@ ul {
     gap: 50px;
     font-family: Arial;
     margin-left: 469px;
+    flex-wrap: wrap;
 
-   
-   
 }
+
+
 
 
 a {
@@ -64,11 +66,15 @@ a {
 }
 
 #nike {
-    display: flex;
     margin-top: 140px;
     margin-right: 300px;
     
+    
+    
+    
 }
+
+
 
 h1 {
     color: #f9faf8;
@@ -102,6 +108,7 @@ button {
 
 #introtext {
     margin-left: 344px;
+    flex-wrap: wrap;
 }
 
 
@@ -110,6 +117,7 @@ button {
     margin-left: auto;
     margin-right: auto;
     width: 800px;
+    
 }
 
 
@@ -131,6 +139,7 @@ button {
 
 
 
+
 .container3 > * {
     margin: auto;
 }
@@ -141,6 +150,7 @@ button {
 .content2 {
     display: flex;
     justify-content: center;
+
     
 }
 
@@ -149,7 +159,6 @@ button {
 
 
 h2 {
-    display: flex;
     color: #1f2937;
     font-size: 36px;
     font-weight: bold;
@@ -164,6 +173,7 @@ h2 {
     display: flex;
     margin: 0 auto;
     gap: 70px;
+    
 }
 
 
@@ -177,7 +187,12 @@ h2 {
     margin-top: 50px;
     
     
+    
+    
+    
 }
+
+
 
 
 
@@ -185,6 +200,7 @@ h2 {
     border-radius: 15px;
     
 }
+
 
 /*End of container 3 sneaker section*/
 
@@ -223,6 +239,7 @@ h2 {
     justify-content: flex-end;
 
 }
+
 
 /*End of container 4*/
 
